@@ -1,0 +1,375 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+  /*header start*/
+  header {
+  }
+  .menu ul li a {
+    font-size: 16px;
+    padding: 5px !important;
+    text-align: center;
+  }
+  /*header end*/
+  /*banner start*/
+  .banner{
+    padding-bottom: 60px;
+  }
+  .banner-left h3{
+    font-size: 20px;
+  }
+  .banner-left h1{
+    font-size: 85px;
+    text-align: center;
+  }
+  .banner-left p{
+    font-size: 14px;
+    text-align: center;
+  }
+  .br-header{
+    background-color: #2b2b2b;
+    padding: 10px 0;
+  }
+  .single-countdown-item {
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    display:  inline-block;
+  }
+
+  .single-countdown-item
+  span {
+    padding:  10px;
+    font-size:  12px;
+    line-height: 20px;
+  }
+  .br-user{
+    align-items: center;
+    padding-left: 25px;
+  }
+  .user{
+    border-right: none;
+  }
+  .br-content{
+    margin-top: 20px;
+  }
+  .br-content h4{
+    font-size: 20px;
+  }
+  .br-content p{
+      font-size: 12px;
+  }
+  .br-body h3{
+      font-size: 22px;
+  }
+  .br-body h1{
+      font-size: 60px;
+  }
+  .br-footer p{
+    font-size: 14px;
+  }
+  /*banner end*/
+  /*explore start*/
+  .b-explore {
+    padding: 40px 0;
+  }
+  .ex-content p {
+    margin-bottom: auto;
+  }
+  .ex-video {
+    margin-top: 10px;
+  }
+  /*explore end*/
+  /*about start*/
+  .about{
+    padding: 30px 0;
+  }
+  .about-content h1{
+    font-size: 35px;
+  }
+  .about-content p{
+    font-size: 15px;
+  }
+  .about-video-area{
+    margin-top: 15px;
+  }
+  .video-content h1{
+    font-size: 16px;
+    font-weight: 300;
+  }
+  .video-content p{
+      font-size: 14px;
+  }
+
+  .video-content a{
+      font-size: 16px;
+  }
+  /*about end*/
+  /*speaker start*/
+  .speaker{
+    padding: 30px 0;
+  }  
+  .speaker h1{
+    font-size: 45px;
+    margin-bottom: 30px;
+  }
+  /*speaker end*/
+  /*event start*/
+  .event h1{
+    font-size: 35px;
+    margin-bottom: 25px;
+  }
+  .event p{
+    font-size: 12px;
+    word-spacing: 0;
+  }
+  /*event end*/
+  /*sponsors start*/
+  .sponsor{
+    padding: 30px 0;
+  }
+  .sponsor h1{
+    font-size: 35px;
+    margin-bottom: 15px;
+  }
+  .sp-logo{
+    height: 50px;
+  }
+  .sp-logo img {
+    width: 80%;
+  }
+  /*sponsors end*/
+  /*customer start*/
+  .customer{
+    padding: 40px;
+  }
+  .customer-content h1{
+      font-size: 25px;
+  }
+  .customer-content p{
+      font-size: 14px;
+  }
+  /*customer end*/
+  /*recent-post start*/
+  .recent-post{
+      padding: 40px;
+  }
+  .recent-post-title h1{
+      font-size: 30px;
+      margin-bottom: 25px;
+  }
+  .slidericon li{
+     margin-bottom: -80px;
+  }
+  .single-recent-post-dec {
+    margin-bottom: 20px;
+  }
+  .single-recent-post-dec p {
+    margin: 0;
+  }
+  /*recent-post start*/
+  /*recent-post start*/
+  .aseees{
+    padding: 60px 0;
+  }
+  /*recent-post start*/
+  
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /*header start*/
+  header {
+  }
+  .menu ul li a {
+    font-size: 16px;
+    padding: 5px !important;
+    text-align: center;
+  }
+  /*header end*/
+  /*banner start*/
+  .banner{
+    padding-bottom: 60px;
+  }
+  .br-user{
+    padding-left: 75px;
+  }
+  .user{
+    border-right: none;
+  }
+  .u-icon{
+    margin: 20px 20px 20px 00px;
+}
+  .br-content{
+    margin-top: 20px;
+  }
+  /*banner end*/
+  /*explore start*/
+  .b-explore{
+    padding: 50px 0;
+  }
+  .ex-video {
+    margin-top: 10px;
+  }
+  /*explore end*/
+  /*about start*/
+  .about-video-area{
+    margin-top: 15px;
+  }
+  /*about end*/
+  /*event start*/
+  .event h1{
+    font-size: 35px;
+    margin-bottom: 25px;
+  }
+  .event p{
+    font-size: 12px;
+    word-spacing: 0;
+  }
+  /*event end*/
+  /*sponsors start*/
+  .sponsor{
+    padding: 40px 0;
+  }
+  .sponsor h1{
+    font-size: 45px;
+    margin-bottom: 15px;
+  }
+  .sp-logo{
+    height: 80px;
+  }
+  /*sponsors end*/
+  /*customer start*/
+  .customer{
+    padding: 50px;
+  }
+  .customer-content h1{
+      font-size: 40px;
+  }
+  .customer-content p{
+      font-size: 16px;
+  }
+  /*customer end*/
+  /*recent-post start*/
+  .recent-post{
+      padding: 40px;
+  }
+  .slidericon li{
+     margin-bottom: -80px;
+  }
+  .single-recent-post-dec {
+    margin-bottom: 20px;
+  }
+  .single-recent-post-dec p {
+    margin: 0;
+  }
+  /*recent-post start*/
+  /*recent-post start*/
+  .aseees{
+    padding: 40px 0;
+  }
+  /*recent-post start*/
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /*header start*/
+  header {
+  }
+  .menu ul li a {
+    font-size: 18px;
+    padding: 5px !important;
+    text-align: center;
+  }
+  /*header end*/
+  /*banner start*/
+  .banner{
+    padding-bottom: 80px;
+  }
+  .br-header{
+    padding: 10px 0;
+  }
+  .br-user{
+    padding-left: 20px;
+  }
+
+  .u-icon {
+    border: 1px solid;
+    font-size: 20px;
+    height: 35px;
+    width: 35px;
+    border-radius: 50px;
+    text-align: center;
+    margin: 20px 10px 0px -13px;
+  }
+  .br-content {
+    margin-top: 20px;
+  }
+  .br-content h4{
+    font-size: 18px;
+  }
+  .br-content p{
+    font-size: 12px;
+  }
+  .br-body h1{
+    font-size: 60px;
+  }
+  .br-footer p{
+    font-size: 14px;
+  }
+  /*banner end*/
+  /*sponsors start*/
+  .sponsor{
+    padding: 60px 0;
+  }
+  .sponsor h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+  }
+  .sp-logo{
+    height: 100px;
+  }
+  /*sponsors end*/
+  /*event start*/
+  .event h1{
+    font-size: 45px;
+  }
+  .event p{
+    font-size: 14px;
+  }
+  /*event end*/
+  /*customer start*/
+  .customer-content h1{
+      font-size: 40px;
+  }
+  .customer-content p{
+      font-size: 15px;
+  }
+  /*customer end*/
+  /*recent-post start*/
+  .slidericon li{
+     margin-bottom: -85px;
+  }
+  .single-recent-post-dec {
+    margin-bottom: 25px;
+  }
+  .single-recent-post-dec p {
+    margin-bottom: 10px;
+  }
+  /*recent-post start*/
+
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /*banner start*/
+  .banner{
+    padding-bottom: 80px;
+  }
+  .u-icon {
+    border: 1px solid;
+    font-size: 22px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    text-align: center;
+    margin: 20px 10px 0px 15px;
+  }
+}
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {}
